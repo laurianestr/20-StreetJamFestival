@@ -223,18 +223,6 @@ footer p {
   font-size: 60px;
 }
 
-.burger h3 {
-  padding-top: 50px;
-  margin-bottom: 0;
-}
-
-.burger p {
-  margin-top: 0;
-}
-
-.burger img {
-  margin-top: 0;
-}
 
 .sprey {
   background-image: url(../img/sprey-food-into.png);
@@ -247,72 +235,21 @@ footer a {
   text-decoration: none;
 }
 
-.tacos h3 {
+
+.stand p {
+  margin-top: 0;
+}
+
+.stand p {
+  margin-top: 0;
+}
+
+.stand h3 {
   padding-top: 50px;
   margin-bottom: 0;
 }
 
-.tacos p {
-  margin-top: 0;
-}
-
-.tacos img {
-  margin-top: 0;
-}
-
-.hot-dog h3 {
-  padding-top: 50px;
-  margin-bottom: 0;
-}
-
-.hot-dog p {
-  margin-top: 0;
-}
-
-.hot-dog img {
-  margin-top: 0;
-}
-
-.poke h3 {
-  padding-top: 50px;
-  margin-bottom: 0;
-}
-
-.poke p {
-  margin-top: 0;
-}
-
-.poke img {
-  margin-top: 0;
-}
-
-.gauffre h3 {
-  padding-top: 50px;
-  margin-bottom: 25px;
-}
-
-.gauffre p {
-  margin-top: 0;
-}
-
-.gauffre img {
-  margin-top: 0;
-}
-
-.smoothie h3 {
-  padding-top: 50px;
-  margin-bottom: 15px;
-}
-
-.smoothie p {
-  margin-top: 0;
-  margin-bottom: 80px;
-}
-
-.smoothie img {
-  margin-top: 0;
-}
-
+ 
 .stand img {
   background-image: url(../img/spray-fond.png);
   background-position: center;
