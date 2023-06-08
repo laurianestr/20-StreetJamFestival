@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #767676;
+  background: #eaeaea;
   font-family: 'Unbounded', cursive;
   font-size: 15px;
 }
@@ -44,7 +44,10 @@ h1 {
   margin-top: 20px;
   text-decoration: none;
   margin-left: 30px;
+}
 
+.navigation a:hover {
+  background-color: #69FF05;
 }
 
 header {
@@ -69,6 +72,7 @@ h2 {
   margin-left: 30px;
   margin-top: 0;
   padding-top: 60px;
+  margin-bottom: 50px;
 }
 
 p {
@@ -233,7 +237,7 @@ footer p {
 }
 
 .sprey {
-  background-image: url(../img/sprey.png);
+  background-image: url(../img/sprey-food-into.png);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -307,4 +311,9 @@ footer a {
 
 .smoothie img {
   margin-top: 0;
+}
+
+.stand img {
+  background-image: url(../img/spray-fond.png);
+  background-position: center;
 }
