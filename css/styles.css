@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ffffff;
+  background: #767676;
   font-family: 'Unbounded', cursive;
   font-size: 15px;
 }
@@ -51,6 +51,7 @@ header {
   background-image: url(../img/graffiti-intro.png);
   background-size: cover;
   margin-bottom: 0px;
+  background-color: #ffffff;
 }
 
 
@@ -64,7 +65,7 @@ h2 {
   font-family: "dimensions", sans-serif;
   font-weight: 500;
   font-style: normal;
-  font-size: 112px;
+  font-size: 107px;
   margin-left: 30px;
   margin-top: 0;
   padding-top: 60px;
@@ -85,7 +86,7 @@ em {
   font-weight: 500;
   font-style: normal;
   margin-left: 30px;
-  font-size: 75px;
+  font-size: 80px;
   margin-bottom: 0;
 }
 
@@ -95,7 +96,7 @@ em {
 
 
 
-.horaires h4 {
+.heures h4 {
   margin-bottom: 5px;
   margin-top: 0;
   font-size: 26px;
@@ -104,7 +105,136 @@ em {
   color: #69FF05;
 }
 
-.horaires p {
+.heures p {
   margin-bottom: 30px;
   margin-top: 0;
+}
+
+.tag-graffiti-street-art .horaires {
+ padding-bottom: 5px;
+}
+
+
+.personnalite h3 {
+  font-family: "dimensions", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 30px;
+  font-size: 80px;
+  margin-bottom: 0;
+}
+
+.skate h3 {
+  font-family: "dimensions", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 30px;
+  font-size: 80px;
+  margin-bottom: 0;
+}
+
+.skate h4 {
+  margin-bottom: 0px;
+  margin-top: 0;
+  font-size: 26px;
+  margin-top: 0;
+  margin-left: 30px;
+  color: #69FF05;
+}
+
+.skate .horaires {
+  padding-bottom: 30px;
+}
+
+.important p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.important h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.musique h3 {
+  font-family: "dimensions", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 30px;
+  font-size: 80px;
+  margin-bottom: 0;
+}
+
+.street-food {
+  background-color: #ffffff;
+  color: black;
+}
+
+footer {
+  background-color: black;
+  color: #ffffff;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-bottom: 30px;
+  
+}
+
+footer h2 {
+  padding-top: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 107px;
+}
+
+footer p {
+  padding-bottom: 60px;
+  padding-top: 40px;
+  font-size: 17px;
+}
+
+.container a {
+  width: 50px;
+}
+
+.street-food h2 {
+  font-size: 107px;
+  margin-bottom: 50px;
+  margin-right: 30px;
+}
+
+
+.street-food h3 {
+  font-family: "dimensions", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 30px;
+  font-size: 60px;
+}
+
+.burger h3 {
+  padding-top: 50px;
+  margin-bottom: 0;
+}
+
+.burger p {
+  margin-top: 0;
+}
+
+.burger img {
+  margin-top: 0;
+}
+
+.sprey {
+  background-image: url(../img/sprey.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
