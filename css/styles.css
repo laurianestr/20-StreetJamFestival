@@ -6,6 +6,10 @@ body {
   font-size: 15px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -253,4 +257,8 @@ footer a {
 .stand img {
   background-image: url(../img/spray-fond.png);
   background-position: center;
+}
+
+.smoothie {
+  padding-bottom: 70px;
 }
